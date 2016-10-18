@@ -1,6 +1,5 @@
 [ 
     { 
-
 	"author" : "Zarkyan", 
 	"name" : "Lowtess", 
 	"keyWords" : "couleur,bleu,blue", 
@@ -8,8 +7,21 @@
 	"dofusVersion" : "2.37", 
 	"description" : "Nuances de bleu, le tout basé sur le thème original du jeu.", 
 	"url" : "http://ordre2vlad.fr/dofusthemes/themes/blueStone.zip", 
-	"previewUrl" : "http://ordre2vlad.fr/dofusthemes/images/preview/blueStone.png", 
+	"previewUrl" : "https://github.com/Zarkyan/Dofus/blob/master/images/preview/Lowtess.PNG", 
 	"creationDate" : "16/10/2016", 
-	"modificationDate" : "16/10/2016"
-    }
+	"modificationDate" : "18/10/2016"
+    },
+	   { 
+	"author" : "Zarkyan", 
+	"name" : "Lowtess NightMode", 
+	"keyWords" : "couleur,bleu,blue", 
+	"version" : "1.0.0", 
+	"dofusVersion" : "2.37", 
+	"description" : "Nuances de bleu, le tout basé sur le thème original du jeu. NightMode", 
+	"url" : "http://ordre2vlad.fr/dofusthemes/themes/blueStone.zip", 
+	"previewUrl" : "https://github.com/Zarkyan/Dofus/blob/master/images/preview/Lowtess%20NightMode.PNG", 
+	"creationDate" : "18/10/2016", 
+	"modificationDate" : "18/10/2016"
+    },
+	
 ]
